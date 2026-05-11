@@ -2,7 +2,7 @@ streamlit==1.32.2
 faster-whisper==1.2.1
 ctranslate2==4.7.1
 av==17.0.0
-onnxruntime==1.24.0
+onnxruntime==1.24.4
 numpy==1.26.4
 tqdm==4.66.4
 pandas==2.2.2
