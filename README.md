@@ -1,6 +1,7 @@
 # Video Subtitle Generator
 
 A mini-project that lets users upload a video and get the same video back with subtitles burned at the bottom.
+Live Streamlit Link : video-subtitle-generator-p4yhejzwu8t9r24sdknzpe
 
 ## 1. Features
 - Upload video from browser (Streamlit)
